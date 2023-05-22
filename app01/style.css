@@ -4,6 +4,10 @@ html, body {
   padding: 0;
 }
 
+header {
+  text-align: center;
+}
+
 .box {
   background-color: #fff;
   border-radius: 10px;
