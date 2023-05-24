@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.textbox {
+  color: rgb(15, 93, 15);
+  background-color: rgb(249, 140, 158);
+  border: 3px solid rgb(63, 43, 43);
+  box-shadow: 1px 1px 5px 5px rgba(86, 161, 236, 0.701);
+  width: 80%;
+  padding: 10px;
+}

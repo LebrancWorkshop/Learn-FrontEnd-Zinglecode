@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.landing {
+  background-color: rgb(57, 56, 56);
+  padding: 160px 50px;
+  width: 100%;
+  max-width: 700px;
+}
+
+.post {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+

@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  margin: 70px;
+  padding: 50px;
+  border: 2px solid black;
+  box-shadow: -5px -5px 5px 5px rgba(93, 182, 254, 0.818), 5px 5px 5px 5px rgba(240, 73, 73, 0.783);
+  font-size: 30px;
+  background-color: rgba(30, 244, 141, 0.772);
+}
+
