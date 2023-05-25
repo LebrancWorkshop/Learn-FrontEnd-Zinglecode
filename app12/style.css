@@ -1,0 +1,37 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  margin: 0 -10px;
+}
+
+.item {
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+.item-4 {
+  width: 33.33%;
+}
+
+.item-8 {
+  width: 66.66%;
+}
+
+.content {
+  background-color: rgb(248, 99, 183);
+  color: rgb(0, 64, 182);
+  border: 2px solid rgba(0, 128, 6, 0.486);
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
