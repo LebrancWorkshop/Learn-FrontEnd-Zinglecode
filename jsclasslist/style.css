@@ -1,0 +1,11 @@
+.content {
+  margin: 20px;
+  padding: 10px;
+  outline: 2px solid black;
+  width: 50%;
+}
+
+.content.dark-mode {
+  background-color: black;
+  color: white;
+}
